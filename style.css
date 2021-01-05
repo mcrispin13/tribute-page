@@ -13,7 +13,8 @@
 }
 
 #image {
-    width: 60%;
+    max-width: 100%;
+    display: block;
     height: auto;
     margin: auto;
 }
@@ -28,4 +29,8 @@
 #img-caption {
     padding-bottom: 20px;
     text-align: center;
+}
+
+#tribute-link {
+    color: inherit;
 }
