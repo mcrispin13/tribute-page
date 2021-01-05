@@ -1,0 +1,31 @@
+#main {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.15);
+    margin: auto;
+    width: 100%;
+    height: auto;
+    margin-top: 45px;
+}
+
+#title {
+    padding-top: 20px;
+}
+
+#image {
+    width: 60%;
+    height: auto;
+    margin: auto;
+}
+
+#img-div {
+    /* font-family:'Courier New', Courier, monospace; */
+    background-color: rgb(160,204, 151);
+    width: 98%;
+    margin: auto;
+}
+
+#img-caption {
+    padding-bottom: 20px;
+    text-align: center;
+}
